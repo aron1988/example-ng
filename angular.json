@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-ghp"
+    }
+  },
+  "defaultProject": "angular-ghp",
+  "cli": {
+    "analytics": false
+  }
 }
